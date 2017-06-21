@@ -1,11 +1,22 @@
 # mac-setup
 setting up new machine steps
 
+# Rule 1
+## Never Ever Publish any Keys or Passwords
+
+.env keep private add to git ignore
+.env.example dummy data setup if necessary
+
 # git
+
+## Add key
+
+Create a public key and add it to you github account
+
 ## fancy git autocomplete branches
 ## fancy git colors
 
-# install brew
+# install brew | brew installs everything else **almost**
 
 # install node
 ## install nvm
@@ -17,6 +28,8 @@ setting up new machine steps
 ## install rvm
 
 # install python
+
+# install php
 
 # install docker
 
